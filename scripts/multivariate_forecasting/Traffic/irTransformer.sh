@@ -1,6 +1,6 @@
 export CUDA_VISIBLE_DEVICES=0
 
-model_name=iTransformer
+model_name=irTransformer
 
 python -u run.py \
   --is_training 1 \
